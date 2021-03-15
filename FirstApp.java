@@ -44,8 +44,8 @@ System.out.println();
 System.out.println();
 // Zadanie nr3
 System.out.println("*********************************");
-System.out.println("**\"To, że milczę, nie znaczy,\t**");
-System.out.println("**\"że nie mam nic do powiedzenia\"**");
+System.out.println("*\"To, że milczę, nie znaczy,\t*");
+System.out.println("*\"że nie mam nic do powiedzenia\"*");
 System.out.println("*********************************");
 	}
 }
