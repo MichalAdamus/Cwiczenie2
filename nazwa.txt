@@ -1,4 +1,4 @@
-1
-2
-3
-4
+1 - Michał 
+2 - Adam 
+3 - Marcin
+4 = Aga
